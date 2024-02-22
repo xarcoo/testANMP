@@ -11,6 +11,7 @@ class LoginActivity : AppCompatActivity() {
         //cupu klean
         //pppppppp
         //test 3
+        //home ini cuy
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
