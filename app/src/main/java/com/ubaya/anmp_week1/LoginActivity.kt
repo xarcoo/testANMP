@@ -8,6 +8,7 @@ class LoginActivity : AppCompatActivity() {
         //ppppp
         //Cek Login ya
         //haloo frenn
+        //cupu klean
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
