@@ -7,6 +7,7 @@ class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         //ppppp
         //Cek Login ya
+        //haloo frenn
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
