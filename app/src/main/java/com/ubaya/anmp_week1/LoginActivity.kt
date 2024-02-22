@@ -11,6 +11,8 @@ class LoginActivity : AppCompatActivity() {
         //cupu klean
         //pppppppp
 
+        // TALIA
+
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
     }
