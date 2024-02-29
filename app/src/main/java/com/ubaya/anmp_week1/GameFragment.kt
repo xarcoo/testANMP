@@ -1,15 +1,18 @@
 package com.ubaya.anmp_week1
 
+import android.app.Activity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.navigation.Navigation
 import com.ubaya.anmp_week1.databinding.FragmentGameBinding
 
 class GameFragment : Fragment() {
     private lateinit var binding: FragmentGameBinding
+
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
